@@ -1,0 +1,10 @@
+{
+  "description": "Explore a curated portfolio showcasing creative design projects and visual art, offering inspiration and insight for designers and art enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
